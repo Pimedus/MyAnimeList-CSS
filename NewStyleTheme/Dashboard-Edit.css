@@ -605,7 +605,7 @@ td.data.type {
 }span.stats {top: 6px;}
 td.data.number {display: none !important;}
 body:after {
-    content: "MyAnimeList.net is a property of MyAnimeList, LLC. ©2015 All Rights Reserved. \a Designed by 5cm. \a Redesign CSS Version by MurakumoJP.";
+    content: "MyAnimeList.net is a property of MyAnimeList, LLC. ©2015 All Rights Reserved. \a Designed by 5cm. \a Redesign CSS Version by MurakumoJP. \a Edited by Pimedus.";
     display: block !important;
     padding: 15px !important;
     width: 1107px;
